@@ -1,0 +1,5 @@
+{
+  "name": "Pure Store",
+  "description": "A modern e-commerce web application inspired by Amazon, featuring product browsing, a shopping cart, and a helpful AI assistant powered by the Gemini API to answer product questions.",
+  "requestFramePermissions": []
+}
